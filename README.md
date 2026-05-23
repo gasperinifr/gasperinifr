@@ -96,33 +96,4 @@ Organiza disciplinas, gera cronogramas de aulas e processa ementas via texto, PD
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Francisco's GitHub Stats](https://github-readme-stats-sepia-eta-8cb0ladp40.vercel.app/api?username=gasperinifr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sepia-eta-8cb0ladp40.vercel.app/api/top-langs/?username=gasperinifr&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Formação & Certificações
-
-| | |
-|---|---|
-| 🎓 **GTI — IFSC** | 2025 – presente |
-| 🎓 **Técnico em Desenvolvimento de Sistemas — SENAI/SC** | 2022 – 2024 |
-| 📜 **TOEIC Bridge 93/100 · Inglês B2 — ETS Global** | 2024 |
-| 📜 **Python Essentials 1 — CISCO NetAcad** | 2023 |
-| 📜 **Introduction to Cybersecurity — CISCO NetAcad** | 2023 |
-| 📜 **Minicurso UX/UI Design — Cubos Academy** | 2023 |
-
----
-
-<div align="center">
-
-*Florianópolis, SC — Brasil*
-
 </div>

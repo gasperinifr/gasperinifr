@@ -100,7 +100,7 @@ Organiza disciplinas, gera cronogramas de aulas e processa ementas via texto, PD
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gasperinifr&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasperinifr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 </div>
 

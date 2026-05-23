@@ -100,9 +100,9 @@ Organiza disciplinas, gera cronogramas de aulas e processa ementas via texto, PD
 
 <div align="center">
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasperinifr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasperinifr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gasperinifr&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gasperinifr&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 </div>
 

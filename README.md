@@ -127,23 +127,6 @@ Concept, product, design and development are mine, from the database to the inte
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gasperinifr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gasperinifr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gasperinifr&layout=compact&hide_border=true&langs_count=8&hide=html,css,scss,jupyter%20notebook&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasperinifr&layout=compact&hide_border=true&langs_count=8&hide=html,css,scss,jupyter%20notebook" height="160" />
-</picture>
-
-</div>
-
----
-
 ## Contact
 
 - **Email:** [franciscogasperini@gmail.com](mailto:franciscogasperini@gmail.com)
